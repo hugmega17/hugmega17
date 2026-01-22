@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Hugo 👋
 
 ### 🚀 Sobre mí
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el ecosistema **Full Stack**. Me apasiona la ciberseguridad y el desarrollo de sistemas robustos y escalables.
