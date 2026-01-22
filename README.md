@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**hugmega17/hugmega17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** enfocado en el ecosistema **Full Stack**. Me apasiona la ciberseguridad y el desarrollo de sistemas robustos y escalables.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Mis Estadísticas
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=hugmega17&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=hugmega17&layout=compact&theme=radical)
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** https://www.linkedin.com/in/hugo-palencia-buitrago-5208a6383/
+- **Email:** palenciahugo17@gmail.com
